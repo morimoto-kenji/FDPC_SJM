@@ -1,0 +1,8 @@
+# Keep the distributed files byte-for-byte (BUPDATE checks them; .DOC is Shift_JIS + CRLF)
+*.BDF binary
+*.bdf binary
+*.DOC binary
+*.png binary
+# Browser-readable copies
+*.txt text eol=lf
+*.md text eol=lf
